@@ -2293,6 +2293,12 @@
 		white-space: nowrap;
 	}
 
+  .resume {
+		background-color: #5ccfb0;
+    padding: 0 3em;
+    align-self: center;
+	}
+
 		input[type="submit"]:hover,
 		input[type="reset"]:hover,
 		input[type="button"]:hover,
@@ -2610,6 +2616,11 @@
 		height: 15em;
 		width: 100%;
 	}
+
+  #four div {
+    display: flex;
+    justify-content: center;
+  }
 
 /* Footer */
 
