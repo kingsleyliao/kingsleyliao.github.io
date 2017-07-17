@@ -2020,12 +2020,12 @@
 			}
 
 		.image.avatar {
-			border-radius: 100%;
+			border-radius: 50%;
 			overflow: hidden;
 		}
 
 			.image.avatar img {
-				border-radius: 100%;
+				border-radius: 50%;
 				display: block;
 				width: 100%;
 			}
