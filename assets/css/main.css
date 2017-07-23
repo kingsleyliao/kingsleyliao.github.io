@@ -2601,7 +2601,7 @@
 /* One */
 
 	#one:before {
-		background-image: url("../../images/banner.png");
+		background-image: url("../../images/banner.jpg");
 		background-position: top right;
 		background-repeat: no-repeat;
 		background-size: cover;
@@ -2609,6 +2609,7 @@
 		display: block;
 		height: 15em;
 		width: 100%;
+    object-fit: contain;
 	}
 
 /* Footer */
